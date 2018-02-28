@@ -9,3 +9,4 @@ TODO
 - [ ] Add tests
 - [ ] Ability to sync if notebook it a git repo
 - [ ] Mobile app
+- [ ] Improve TODO list functionality to group tasks by section
